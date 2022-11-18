@@ -1,4 +1,5 @@
-# web
+# breeze-web
+大型breeze社交、论坛、交友、游戏综合类型全栈项目.
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -24,7 +25,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+pnpm install
 ```
 
 ### Compile and Hot-Reload for Development
